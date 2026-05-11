@@ -20,10 +20,10 @@ The goal of this repository is to strengthen:
 
 ## Programs Included
 
+- Class and Object Examples
+- Constructor Examples
 - Prime Number Checker
 - Maximum of 10 Numbers
-- Constructor Examples
-- Class and Object Examples
 
 ## Language Used
 
@@ -39,4 +39,4 @@ This repository is maintained for:
 
 ## Author
 
-AK
+[AK](https://github.com/Ankan-7)
