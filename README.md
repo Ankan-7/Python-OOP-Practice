@@ -19,7 +19,7 @@ The goal of this repository is to strengthen:
 - Basic Problem Solving in Python
 - Function Overloading
 - Default Argument
-- Simple Inheritance
+- Inheritance (Single,Multilevel,Multiple,Hierarchical,Hybrid)
 
 ## Programs Included
 
