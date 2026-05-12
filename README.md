@@ -17,9 +17,9 @@ The goal of this repository is to strengthen:
 - Prime Number Programs
 - Maximum Number Programs
 - Basic Problem Solving in Python
-- Function Overloading
-- Default Argument
-- Inheritance (Single, Multilevel, Multiple, Hierarchical, Hybrid)
+- Function Overloading Concept
+- Default Argument Concept
+- Inheritance Concept
 
 ## Programs Included
 
@@ -27,6 +27,9 @@ The goal of this repository is to strengthen:
 - Constructor Examples
 - Prime Number Checker
 - Maximum of 10 Numbers
+- Function Overloading
+- Default Argument
+- Inheritance (Single, Multilevel, Multiple, Hierarchical, Hybrid)
 
 ## Language Used
 
