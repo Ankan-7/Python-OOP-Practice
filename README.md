@@ -17,6 +17,8 @@ The goal of this repository is to strengthen:
 - Prime Number Programs
 - Maximum Number Programs
 - Basic Problem Solving in Python
+- Function Overloading
+- Default Argument
 
 ## Programs Included
 
